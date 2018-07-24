@@ -1,9 +1,8 @@
-# LearnFromRythm
-This project consists of learning from rhythm. CNN is used for classification problem, 
-tempo feature and average of beats for musical genre recognition problem.
+# How it works
 
 ## Getting started
-LearnFromRythm is based on musical signature recognition and CNN classification.
+LearnFromRythm project consists of learning from rhythm.  CNN is used for classification problem, 
+tempo feature and average of beats for musical genre recognition problem.
 For musical signature  tempo feature and average of beats are used to detect similarity 
 between two or more songs. 
 
@@ -31,4 +30,3 @@ command to predict the genre of the song based on your previously created model
 ```
 python predict.py
 ```
-
