@@ -1,5 +1,6 @@
 # LearnFromRythm
-This project consists of learning from rhythm, CNN is used for classification
+This project consists of learning from rhythm, CNN is used for classification problem, 
+tempo feature and average of beats for musical genre recognition problem.
 
 ## Getting started
 LearnFromRythm is based on musical signature recognition and CNN classification.
