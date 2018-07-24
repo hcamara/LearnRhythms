@@ -1,5 +1,5 @@
 # LearnFromRythm
-This project consists of learning from rhythm, CNN is used for classification problem, 
+This project consists of learning from rhythm. CNN is used for classification problem, 
 tempo feature and average of beats for musical genre recognition problem.
 
 ## Getting started
@@ -31,3 +31,4 @@ command to predict the genre of the song based on your previously created model
 ```
 python predict.py
 ```
+
