@@ -2,7 +2,7 @@
 
 ## Getting started
 LearnFromRythm project consists of learning from rhythm.  <br/> CNN is used for classification problem, 
-tempo feature and average of beats  are used to detect similarity between two or more songs. 
+tempo feature and average of beats <br/>  are used to detect similarity between two or more songs. 
 
 ### How to generate datasets
 To create a new model, you must generate training datasets. <br/> 
