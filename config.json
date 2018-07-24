@@ -1,0 +1,5 @@
+{
+    "datasets_path": "./data/datasets/",
+    "model_path": "./model/",
+    "model_name": "song_model"
+}
