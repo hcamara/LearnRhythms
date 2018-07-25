@@ -28,3 +28,8 @@ command to predict musical genre based on your previously created model
 ```
 python predict.py
 ```
+REST API version is also available,just use  the following command : 
+
+```
+python rest_api.py
+```
