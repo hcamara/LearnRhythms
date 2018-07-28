@@ -1,7 +1,7 @@
 # How it works
 
 ## Getting started
-LearnFromRythm project consists of learning from rhythm.  <br/> CNN is used for classification problem, 
+LearnRhythms project consists of learning from rhythm.  <br/> CNN is used for classification problem, 
 tempo feature and average of beats <br/>  are used to detect similarity between two or more songs. 
 
 ### How to generate datasets
